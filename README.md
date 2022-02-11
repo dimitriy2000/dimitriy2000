@@ -1,6 +1,7 @@
-### Здарова 
+<h1 align="center">Привет</h1> 
 ### Я сейчас изучаю PHP, MySql, Laravel
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriy2000&theme=dark&show_icons=true)
+
 
 
 <!--
