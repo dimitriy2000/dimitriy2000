@@ -1,20 +1,24 @@
-<h1 align="center">Привет</h1> 
-### Я сейчас изучаю PHP, MySql, Laravel
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimitriy2000&theme=dark&show_icons=true)
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/DIMHUB.png" alt="DIMHUB">
 
+<p>Привет, меня зовут <b>Дима</b> (неожиданно, да?🤨), живу в <b>Краснодаре</b>. Я увлекаюсь веб-разработкой. Мне нравится использовать нестандартные подходы и постоянно экспериментировать в создании сайтов, вёрстке, программировании. Умею рефакторить код. Мой стек: 
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/html5.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/css3.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/js.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/jquery.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/php.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/mysql.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/laravel.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/github.svg" align="center" width="25" height="25">
+  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/git.svg" align="center" width="25" height="25">
+</p>
+<p align="center">
+ 
+ <!--<img src="https://badges.pufler.dev/visits/dimitriy2000/dimitriy2000" alt="Посещение репозитория"> -->
+ <img src="https://badges.pufler.dev/years/dimitriy2000" alt="лет">
+ <img src="https://badges.pufler.dev/repos/dimitriy2000" alt="репозитории">
+ <img src="https://badges.pufler.dev/commits/yearly/dimitriy2000" alt="коммиты">
 
-
-<!--
-**dimitriy2000/dimitriy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
