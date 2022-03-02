@@ -11,13 +11,13 @@
 <div align="center"> 
 <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/html5.svg" align="center" width="25" height="25">
 <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/css3.svg" align="center" width="25" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/js.svg" align="center" width="25" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/jquery.svg" align="center" width="60" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/php.svg" align="center" width="25" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/mysql.svg" align="center" width="25" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/laravel.svg" align="center" width="25" height="25">
-  <img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/github.svg" align="center" width="25" height="25">
-  <img src="https://img.shields.io/badge/-Git-white?style=flat-square&logo=git" align="center" width="40" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/php.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/js.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/jquery.svg" align="center" width="60" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/mysql.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/laravel.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/github.svg" align="center" width="25" height="25">
+<img src="https://github.com/dimitriy2000/dimitriy2000/blob/main/img/git.svg" align="center" width="55" height="25">
 </div>
 <br>
 <h2 align="center">СТАТИСТИКА</h2>
